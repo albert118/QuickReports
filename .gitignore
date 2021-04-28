@@ -1,0 +1,6 @@
+# created by virtualenv automatically
+*.pdf
+pyvenv.cfg
+Scripts/*
+Lib/*
+__pycache__/*
